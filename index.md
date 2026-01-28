@@ -1,3 +1,7 @@
 ---
-title: Welcome to my blog!
+Prashant Narula
+
+# Executive Summary
+
+# Core Competencies
 ---
